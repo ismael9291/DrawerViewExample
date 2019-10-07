@@ -1,0 +1,16 @@
+PODS:
+  - DrawerView (1.2.1)
+
+DEPENDENCIES:
+  - DrawerView (= 1.2.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DrawerView
+
+SPEC CHECKSUMS:
+  DrawerView: c08597a6675c171367f60405a22ddf88ecd17959
+
+PODFILE CHECKSUM: b04127088e25bf7258bc52fc6e52d18947399e38
+
+COCOAPODS: 1.6.2
